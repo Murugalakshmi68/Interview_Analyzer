@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pyaudio
+speechrecognition
+mediapipe
+transformers
+scikit-learn
+flask
+mysql-connector-python
