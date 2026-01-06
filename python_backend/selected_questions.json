@@ -1,12 +1,11 @@
 {
+  "candidate_name": "Muruga",
+  "email": "muruga6805@gmail.com",
   "domain": "Python",
   "level": "low",
   "role": "Software Developer",
   "questions": [
     "What is a list in Python?",
-    "How do you create a function in Python?",
-    "What is the difference between a list and a tuple?",
-    "How do you install a package using pip?",
-    "What does 'if __name__ == \"__main__\"' do?"
+    "How do you create a function in Python?"
   ]
 }

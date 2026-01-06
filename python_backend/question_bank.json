@@ -1,0 +1,25 @@
+{
+  "Python": {
+    "Beginner": [
+      "What is Python?",
+      "What is a list in Python?",
+      "Explain variables in Python",
+      "What are data types in Python?",
+      "How do you take input from user?"
+    ],
+    "Intermediate": [
+      "What is the difference between list and tuple?",
+      "Explain exception handling in Python",
+      "What is a function?",
+      "Explain dictionary in Python",
+      "What is list comprehension?"
+    ],
+    "Advanced": [
+      "What is GIL in Python?",
+      "Explain generators",
+      "How does memory management work?",
+      "What are decorators?",
+      "Explain multithreading in Python"
+    ]
+  }
+}
